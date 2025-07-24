@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UraniumRockers
 - 👀 I’m interested in Electrical Engineering and Computer Science/Programming in general
-- 🌱 I’m currently learning lowkey HTML/CSS & Javascript. I know Python, Java, and C# w/ Unity (Unity Certified User: Programmer certified)
-- 💞️ I’m looking to collaborate on nothing except maybe a Game Jam/TSA Comp or two
+- 🌱 I’m currently learning HTML/CSS & Javascript (taking a break from learning them at the moment though). I know Python, Java, and C# w/ Unity (Unity Certified User: Programmer certified)
+- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: uraniumrockers on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cooking Clash is a 2-4 player kids game playable on one screen and one keyboard at a time
